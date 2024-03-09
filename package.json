@@ -1,5 +1,5 @@
 {
-  "name": "converter-money",
+  "name": "converter-money-indonesia",
   "type": "module",
   "version": "1.0.6",
   "description": "A simple utility library to format currency and convert numbers to words in Indonesian Rupiah.",
