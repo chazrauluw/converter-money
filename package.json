@@ -1,7 +1,7 @@
 {
   "name": "converter-money-indonesia",
   "type": "module",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "A simple utility library to format currency and convert numbers to words in Indonesian Rupiah.",
   "main": "src/formatCurrency.js",
   "scripts": {
@@ -28,6 +28,7 @@
     "lodash": "^4.17.21",
     "money-convert": "^1.0.9",
      "money-ruppe": "^1.0.6",
-     "tea-convert": "^1.1.12"
+     "tea-convert": "^1.1.12",
+        "change-money": "^1.0.8"
   }
 }
